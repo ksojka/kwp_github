@@ -1,0 +1,72 @@
+@media screen and (max-width: 1200px) { 
+	.top2_1 {
+		left: 1%;
+	}
+	.top2_2 {
+		left: 1%;
+	}
+	.top2_3 {
+		left: 1%;
+	}
+	.top2_4 {
+		left: 1%;
+	}
+	.but3_2 span {
+		padding: 0 10%;
+	}
+	.but2_2 {
+		padding:0 3%;
+	}	
+	.sg_slide1_left_1_right {	
+		background: transparent url("images/main_ico_left.png") no-repeat scroll 10px center;
+	}
+	.footer1_13_1_3_1 {
+		width: 48%;
+	}
+	.sg_news1 {
+		padding: 4%;
+	}
+	.sg_slide_el2_1 {
+		margin-left: 3%;
+		margin-right: 3%;
+	}
+	.filters1 {
+		padding-left: 10px;
+	}	
+	.filters2 {
+		padding-left: 10px;
+	}	
+	.navigation ul {
+		padding-left: 10px;	
+	}	
+	.product_details1_1_1_1 { 
+		margin-left:1%;
+		width: 94%;
+	}
+	.product_details1_1 {
+		display: none;
+	}
+	.product_details1_1_mob {
+		display: block;
+	}
+	.gal20 {
+		display: block !important;
+		width: 53%;
+	}
+	.gal2 {
+		width: 95%;		
+	}	
+	.basket_step1 {	
+		float: none;
+		margin-left: 1%;
+		margin-top: 20px;
+		width: 98%;
+	}
+	.basket_step2 {	
+		float: none;
+		margin-left: 1%;
+		margin-top: 20px;
+		width: 98%;
+	}
+	
+}
